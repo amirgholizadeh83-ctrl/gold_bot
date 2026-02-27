@@ -1,0 +1,16 @@
+[
+    {
+        "name": "goldtransaction_session",
+        "value": "eyJpdiI6ImJwOWxBMms0bjNoKzRaM0t4ME9qa3c9PSIsInZhbHVlIjoiWUJtSElLTnBpRVM5cmNBRDg1ekRKY2h0RjFpY1ZRcytxcTRockg0R0NqZW9YL242enlYRjVPdU94Z3hPSTY0SndmVlR2cHY5YUdPMStydTk5MFYzTjNCaktjeDR0ckJZSm1FR0tpWE5Ga0pUbjlVczF4OWx4QUpOaHVKT21vOUUiLCJtYWMiOiJhYWY0M2M4MmU4Zjk1ZTY5N2RiODhhNTExZTliODA3MGQ0ZDU2NzE1YjdlMjIxMzcwMjhiZDRhNDY1ZjkzNDAwIiwidGFnIjoiIn0%3D",
+        "domain": ".horsegold.ir",
+        "path": "/"   
+    }
+    ,
+
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6ImhpN2tUZURKWlh4MndVQk1wR0JzZnc9PSIsInZhbHVlIjoibWFMYURDWlVHMkUzbld3WjFuNGtsa3NuV3d1czdvRmZGdmxmWXpVbW9HcG5sOEp3eVNLWUZKZnhlYXN2V1FVNVJaOG5lVFowUG9CMHZhVGRoR3NKRW5jb3luRk9UMnNDZG8zSi9NUlA4VThidTZiMURKaWlmYTVvMy9nY2hPYmEiLCJtYWMiOiI1ODA5Njk2Mzk2NjAzYzYyMThhZWZkNTg0MjA4NmYwN2Y3NjJiY2Q4NjNlNDIyZTk0MmYwNjljOGE0YzliYjM0IiwidGFnIjoiIn0%3D%3D",
+        "domain": ".horsegold.ir",
+        "path": "/"
+    }
+]
